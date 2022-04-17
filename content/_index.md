@@ -8,3 +8,7 @@ Hola bienvenido ✌️ n n  soy el explorer Cesar y este es mi blog personal don
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
+
+Primer Post
+
+Para mi la cultura en el desarrollo de software es algo importante
